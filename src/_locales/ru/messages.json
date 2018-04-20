@@ -78,13 +78,13 @@
     "message": "Отметить поля, которые можно заполнить, иконкой PassFF"
   },
   "passff_prefs_submit_fillable": {
-    "message": "Submit when selected via the input menu"
+    "message": "Отправить при выборе через меню ввода"
   },
   "passff_prefs_handle_http_auth": {
-    "message": "Handle HTTP authentication"
+    "message": "Обрабатывать аутентификацию HTTP"
   },
   "passff_prefs_directories_first": {
-    "message": "List directories first in the toolbar menu"
+    "message": "Показывать каталоги в начале списка в панели инструментов"
   },
   "passff_prefs_case_insensitive_search": {
     "message": "Поиск без учета регистра"
@@ -111,7 +111,7 @@
     "message": "Имена полей для адресов сайтов"
   },
   "passff_prefs_script_howto": {
-    "message": "Смотри файл passff.py для смены переменных окружения pass."
+    "message": "Смотри файл passff.py для смены переменных окружения приложения pass."
   },
   "passff_prefs_auto_fill_label": {
     "message": "Автоматически заполнять поля для входа"
@@ -201,12 +201,12 @@
     "message": "Извините, произошла неожиданная ошибка"
   },
   "passff_errors_exec_host_app": {
-    "message": "Connection to the host app failed or returned an unexpected result!"
+    "message": "Соединение с хост-приложением не удалось или возвратило неожиданный результат!"
   },
   "passff_errors_upgrade_host_app": {
-    "message": "Make sure you have the latest version of the PassFF host app installed by following the {installation instructions on GitHub}."
+    "message": "Убедитесь, что вы используете последнюю версию хост-приложения PastFF. Смотри руководство по установке {installation instructions on GitHub}."
   },
   "passff_no_entries_found": {
-    "message": "No entries matching this URL."
+    "message": "Нет записей совпадающих с этим URL."
   }
 }
