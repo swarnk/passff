@@ -30,7 +30,7 @@
     "message": "Отобразить"
   },
   "passff_display_hover": {
-    "message": "Hover mouse pointer to show password."
+    "message": "Наведите курсор, чтобы отобразить пароль."
   },
   "passff_toolbar_button_label": {
     "message": "PassFF"
@@ -54,7 +54,7 @@
     "message": "Показать совпадения"
   },
   "passff_prefs_headline": {
-    "message": "PassFF Preferences"
+    "message": "Настройки PassFF"
   },
   "passff_prefs_tab_general": {
     "message": "Общие"
@@ -72,10 +72,10 @@
     "message": "Добавление паролей"
   },
   "passff_prefs_tab_misc": {
-    "message": "Miscellaneous"
+    "message": "Разное"
   },
   "passff_prefs_mark_fillable": {
-    "message": "Mark fillable input fields with the PassFF icon"
+    "message": "Отметить поля, которые можно заполнить, иконкой PassFF"
   },
   "passff_prefs_submit_fillable": {
     "message": "Submit when selected via the input menu"
@@ -111,7 +111,7 @@
     "message": "Имена полей для адресов сайтов"
   },
   "passff_prefs_script_howto": {
-    "message": "See passff.py for changing the environment variables of pass."
+    "message": "Смотри файл passff.py для смены переменных окружения pass."
   },
   "passff_prefs_auto_fill_label": {
     "message": "Автоматически заполнять поля для входа"
@@ -120,7 +120,7 @@
     "message": "Автоматически отправлять поля для входа"
   },
   "passff_prefs_autofill_blacklist_label": {
-    "message": "Don't auto fill if tab's URL contains one of the strings"
+    "message": "Не использовать автозаполнение если адрес содержит одну из следующих строк"
   },
   "passff_prefs_default_length_label": {
     "message": "Длина пароля по умолчанию"
@@ -138,13 +138,13 @@
     "message": "Вставить"
   },
   "passff_prefs_show_new_password_button": {
-    "message": "Show 'New Password' button in the toolbar menu"
+    "message": "Показывать кнопку 'Новый пароль' в панели инструментов"
   },
   "passff_prefs_enable_logging": {
-    "message": "Enable logging to the JavaScript web console"
+    "message": "Включить отладку в JavaScript веб-консоли"
   },
   "passff_prefs_show_status": {
-    "message": "Show a status bar in the toolbar menu"
+    "message": "Показывать строку состояния в панели инструментов"
   },
   "passff_newpassword_window_title": {
     "message": "Новый пароль"
